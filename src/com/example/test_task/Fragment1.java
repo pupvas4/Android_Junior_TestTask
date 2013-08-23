@@ -1,7 +1,7 @@
 package com.example.test_task;
-/*
- Cписок с загрузкой данных с сервера через SQL базу.
- */
+
+// Cписок с загрузкой данных с сервера через  SQL базу.
+ 
 import android.os.Bundle;
 import android.support.v4.app.ListFragment;
 import android.view.LayoutInflater;
