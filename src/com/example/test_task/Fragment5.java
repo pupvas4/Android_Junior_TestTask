@@ -1,7 +1,7 @@
 package com.example.test_task;
 /*
- Форма с отправкой данных в json формате,
- реализована простая валидация данных.
+ Forma s otpravkoy dannih v json formate,
+ realizovana prostaya validaciya dannih
  */
 
 

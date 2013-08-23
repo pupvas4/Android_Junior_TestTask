@@ -1,10 +1,11 @@
 package com.example.test_task;
-/*
- Cписок с загрузкой данных напр€мую с сервера 
- (¬ качестве данных - начало web страницы, полученной 
- по HTTP запросу www.google.com.ua). ѕервые четыре "слова"
- (набор символов, разделенных пробелами)будем считать нашими данными.
+/* Spisok s zagruzkoy dannih napramuu s servera
+ * 
+ * ( V ka4estve dannih - na4alo web stranici www.google.com.ua. Pervie 4 "slova"(
+ *  nabor simvolov? razdelennih probelami) budem s4itat nawimi dannimi)
+ * 
  */
+
 import java.io.InputStream;
 import java.io.InputStreamReader;
 import java.net.HttpURLConnection;

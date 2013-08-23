@@ -1,6 +1,6 @@
 package com.example.test_task;
 /*
-Загружаетстя mp3 файл и воспроизводится.
+Zagrujaetsa mp3 file i vosproizvoditsa.
 http://dl.dropboxusercontent.com/u/6197740/explosion.mp3
 
  */

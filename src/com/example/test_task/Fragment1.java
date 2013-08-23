@@ -1,6 +1,6 @@
 package com.example.test_task;
-
-// Cписок с загрузкой данных с сервера через  SQL базу.
+ 
+//Spisok s zagruzkoy dannih s servera 4erez SGL bazu
  
 import android.os.Bundle;
 import android.support.v4.app.ListFragment;

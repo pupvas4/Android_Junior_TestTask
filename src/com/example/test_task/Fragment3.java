@@ -1,7 +1,7 @@
 package com.example.test_task;
-/*
- Cписок с загрузкой данных напрямую из базы SQL 
- (DB SQLite cоздается и читается в методе onCreate())
+
+/*Spisok s zagruzkoy  dannih napramuu iz bazi SQL
+ * (DB SQLite sozdaetsa i 4itaetsa v metode onCreate())
  */
 
 
